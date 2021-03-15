@@ -7,3 +7,5 @@ competition: https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe/overvie
 2nd: https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe/discussion/209600
 
 3rd: https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe/discussion/215463
+
+Thanks for their ideas!
